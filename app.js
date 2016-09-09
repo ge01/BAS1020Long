@@ -17,3 +17,6 @@ function findLongestWord(str) {
 }
 
 console.log(findLongestWord("The quick brown fox jumped over the lazy dog"));
+
+// Finding longest string in array
+// http://stackoverflow.com/questions/6521245/finding-longest-string-in-array
